@@ -86,4 +86,4 @@ I love writing clean, scalable code and building meaningful applications. Curren
 </div>
 
 
-[Visitor Count](https://komarev.com/ghpvc/?username=casadeblanca&color=brightgreen&style=flat-square&label=Profile%20Views)
+![Profile Views](https://komarev.com/ghpvc/?username=casadeblanca&color=brightgreen&style=flat-square&label=Profile%20Views)
