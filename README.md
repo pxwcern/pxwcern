@@ -82,7 +82,7 @@ I love writing clean, scalable code and building meaningful applications. Curren
 
 <div align="center">
   <strong>"Writing code is an art. Writing clean code is a discipline."</strong><br><br>
-  <img src="https://github.com/casadeblanca/blob/main/assets/footer.svg" width="400" alt="Footer" />
+  <img src="https://github.com/casadeblanca/blob/main/assets/footer.png" width="400" alt="Footer" />
 </div>
 
 
