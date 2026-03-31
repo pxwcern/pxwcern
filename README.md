@@ -85,5 +85,5 @@ I love writing clean, scalable code and building meaningful applications. Curren
   <img src="https://github.com/bahribyk/bahribyk/blob/main/assets/footer.svg" width="400" alt="Footer" />
 </div>
 
-<!-- Visitor counter (optional) -->
-![Visitor Count]([https://komarev.com/ghpvc/?username=casadeblanca&color=brightgreen&style=flat-square&label=Profile%20Views](https://komarev.com/ghpvc/?username=casadeblanca&color=brightgreen&style=flat-square&label=Profile%20Views))
+
+[Visitor Count](https://komarev.com/ghpvc/?username=casadeblanca&color=brightgreen&style=flat-square&label=Profile%20Views)
