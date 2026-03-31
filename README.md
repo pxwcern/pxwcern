@@ -56,12 +56,6 @@ I love writing clean, scalable code and building meaningful applications. Curren
 
 ### 🌟 Featured Projects
 
-| Project | Description | Technologies | Links |
-|---------|-------------|--------------|-------|
-| **Project Name 1** | Short but powerful description of what the project does and the problem it solves | Next.js, NestJS, PostgreSQL, Docker | [Repo](https://github.com/bahribyk/project1) |
-| **Project Name 2** | ... | TypeScript, Redis, BullMQ | [Repo](https://github.com/bahribyk/project2) |
-| **Project Name 3** | ... | Go, Fiber, PostgreSQL | [Live Demo](https://your-demo-link.com) |
-
 → Check out all my projects in the **[Repositories](https://github.com/bahribyk?tab=repositories)** tab!
 
 ### 📊 GitHub Stats
