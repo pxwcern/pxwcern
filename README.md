@@ -78,7 +78,7 @@ I love writing clean, scalable code and building meaningful applications. Curren
 
 ### 📬 Get In Touch
 
-- **Email**: [your.email@example.com]
+- **Email**: [mercymeforger@gmail.com]
 - **Twitter/X**: [@bahribyk](https://twitter.com/bahribyk)
 - **LinkedIn**: [linkedin.com/in/bahribyk](https://linkedin.com/in/bahribyk)
 - **Discord**: bahribyk (optional)
