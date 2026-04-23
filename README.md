@@ -10,7 +10,7 @@ I'm **pxwcern**, a software developer dedicated to building clean, scalable, and
 - 🔭 **Currently Building:** [csbl.lol](https://csbl.lol/)
 - 🌱 **Learning Path:** Next.js 15, TypeScript, NestJS, and Container Orchestration
 - ⚡ **Interests:** Distributed Systems, Clean Architecture, and AI-Powered Integrations
-- 📍 **Location:** Akhisar, Manisa, Turkey
+- 📍 **Location:** Germany 🇩🇪
 
 ---
 
