@@ -5,7 +5,7 @@
 ---
 
 ### 💫 About Me
-I'm **pxwcern**, a software developer dedicated to building clean, scalable, and high-performance applications. I specialize in crafting robust APIs and modern full-stack solutions with a focus on system design and performance optimization.
+I'm **swenz**, a software developer dedicated to building clean, scalable, and high-performance applications. I specialize in crafting robust APIs and modern full-stack solutions with a focus on system design and performance optimization.
 
 - 🔭 **Currently Building:** [csbl.lol](https://csbl.lol/)
 - 🌱 **Learning Path:** Next.js 15, TypeScript, NestJS, and Container Orchestration
